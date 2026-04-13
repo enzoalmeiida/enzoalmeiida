@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Enzo! 👋
 
-<!--
-**enzoalmeiida/enzoalmeiida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Engenharia de Software (FIAP 2027)** | Foco em Cloud, SRE e DevOps
+☁️ **Certificações:** AWS Certified Cloud Practitioner | Rumo à AZ-900 (Azure Fundamentals)
 
-Here are some ideas to get you started:
+Sou um profissional apaixonado por infraestrutura e confiabilidade, com experiência prévia em suporte de TI e gestão de operações comerciais. Meu grande objetivo é construir, monitorar e garantir a alta disponibilidade de sistemas críticos em escala, unindo a visão técnica de Multi-Cloud com o entendimento estratégico de que a tecnologia precisa manter o negócio rodando.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack e Foco de Estudos
+* **Cloud & Infraestrutura:** AWS, Microsoft Azure, Linux, Fundamentos de Redes
+* **Práticas de SRE:** Alta Disponibilidade, Troubleshooting, Automação
+* **Linguagens & Frameworks:** Python, Bash, React Native (Expo)
+
+### 🚀 O que estou construindo
+No momento, meus projetos focam em estruturar ambientes resilientes e desenvolver dashboards de monitoramento para a saúde de infraestruturas (como os desenvolvidos para os Checkpoints da FIAP), além de avançar na jornada de certificações em nuvem pública.
+
+### 🤝 Projetos em Colaboração
+* [**Portfólio de Publicidade e Propaganda**](LINK_DO_REPOSITORIO_AQUI): Desenvolvimento do front-end e infraestrutura web para o portfólio de um profissional da área de publicidade. Foco em design minimalista e alta performance.
+
+📫 **Como falar comigo:** Fique à vontade para me chamar no LinkedIn ou por e-mail para falarmos sobre tecnologia, cultura Multi-Cloud e SRE!
