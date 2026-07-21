@@ -3,6 +3,9 @@
 🎓 **Engenharia de Software (FIAP 2027)** | Foco em Cloud, SRE e DevOps
 ☁️ **Certificações:** AWS Certified Cloud Practitioner | Rumo à AZ-900 (Azure Fundamentals)
 
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 Sou um profissional apaixonado por infraestrutura e confiabilidade, com experiência prévia em suporte de TI e gestão de operações comerciais. Meu grande objetivo é construir, monitorar e garantir a alta disponibilidade de sistemas críticos em escala, unindo a visão técnica de Multi-Cloud com o entendimento estratégico de que a tecnologia precisa manter o negócio rodando.
 
 ### 🛠️ Stack e Foco de Estudos
