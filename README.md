@@ -3,8 +3,8 @@
 🎓 **Engenharia de Software (FIAP 2027)** | Foco em Cloud, SRE e DevOps
 ☁️ **Certificações:** AWS Certified Cloud Practitioner | Rumo à AZ-900 (Azure Fundamentals)
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/f3ee557d-15b2-4fca-b4c7-814329a63006/linked_in_profile)
+[![Microsoft AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/pt-br/users/enzoalmeida-0520/credentials/d5880070775ab95?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 Sou um profissional apaixonado por infraestrutura e confiabilidade, com experiência prévia em suporte de TI e gestão de operações comerciais. Meu grande objetivo é construir, monitorar e garantir a alta disponibilidade de sistemas críticos em escala, unindo a visão técnica de Multi-Cloud com o entendimento estratégico de que a tecnologia precisa manter o negócio rodando.
 
